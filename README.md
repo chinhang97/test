@@ -2,7 +2,7 @@
 1) Open the mysql folder and login
 ```
 C:\Users\Name>cd C:\Program Files\MySQL\MySQL Server 8.0\bin
-C:\Program Files\mysql\bin>mysql -u root -p
+C:\Program Files\MySQL\MySQL Server 8.0\bin>mysql -u root -p
 ```
 
 2) Let’s start by making a new user within the MySQL shell:
