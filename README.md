@@ -24,8 +24,8 @@ mysql> FLUSH PRIVILEGES;
 6) (Optional) Change .env config.
 ```
 By default:
-DB_USERNAME="newuser1"
-DB_PASSWORD ="Secret321"
+DB_USERNAME="newuser"
+DB_PASSWORD ="Secret123"
 DB_HOST= "localhost"
 DB_PORT="3306"
 DB_DBNAME="productdb"
