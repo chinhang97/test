@@ -19,7 +19,7 @@ mysql> GRANT ALL PRIVILEGES ON * . * TO 'newuser'@'localhost';
 mysql> FLUSH PRIVILEGES;
 ```
 
-5) Run dbinti.sql script to initialize database.
+5) Run createdb.sql script to initialize database.
 
 6) (Optional) Change .env config.
 ```
