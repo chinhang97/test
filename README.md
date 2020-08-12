@@ -1,4 +1,4 @@
-## Read Backend.pdf for the requirement
+## Read Backend.pdf for the requirements
 ## Create mysql user
 1) Open the mysql folder and login
 ```
